@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="log_in">Log-In</string>
+    <string name="hint_username">Enter your email id</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string-array name="countries">
+        <item>Algeria</item>
+        <item>Angola</item>
+        <item>Benin</item>
+        <item>Botswana</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cabo Verde</item>
+        <item>Cameroon</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Comoros</item>
+        <item>Congo (the Democratic Republic of the)</item>
+        <item>Congo (the)</item>
+        <item>Côte d\'Ivoire</item>
+        <item>Djibouti</item>
+        <item>Egypt</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Eswatini</item>
+        <item>Ethiopia</item>
+        <item>Gabon</item>
+        <item>Gambia (the)</item>
+        <item>Ghana</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Kenya</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Mali</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Niger (the)</item>
+        <item>Nigeria</item>
+        <item>Réunion</item>
+        <item>Rwanda</item>
+        <item>Saint Helena, Ascension and Tristan da Cunha</item>
+        <item>Sao Tome and Principe</item>
+        <item>Senegal</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Sudan</item>
+        <item>Sudan (the)</item>
+        <item>Tanzania, the United Republic of</item>
+        <item>Togo</item>
+        <item>Tunisia</item>
+        <item>Uganda</item>
+        <item>Western Sahara*</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Antarctica</item>
+        <item>Bouvet Island</item>
+        <item>French Southern Territories (the)</item>
+        <item>Heard Island and McDonald Islands</item>
+        <item>South Georgia and the South Sandwich Islands</item>
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>British Indian Ocean Territory (the)</item>
+        <item>Brunei Darussalam</item>
+        <item>Cambodia</item>
+        <item>China</item>
+        <item>Georgia</item>
+        <item>Hong Kong</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Japan</item>
+        <item>Kazakhstan</item>
+        <item>Korea (the Democratic People\'s Republic of)</item>
+        <item>Korea (the Republic of)</item>
+        <item>Kyrgyzstan</item>
+        <item>Lao People\'s Democratic Republic (the)</item>
+        <item>Macao</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mongolia</item>
+        <item>Myanmar</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Philippines (the)</item>
+        <item>Singapore</item>
+        <item>Sri Lanka</item>
+        <item>Taiwan (Province of China)</item>
+        <item>Tajikistan</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Turkmenistan</item>
+        <item>Uzbekistan</item>
+        <item>Viet Nam</item>
+        <item>Belize</item>
+    </string-array>
+</resources>
